@@ -1,1 +1,1 @@
-hasupdate=0
+hasupdate=1
